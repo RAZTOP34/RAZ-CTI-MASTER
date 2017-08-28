@@ -1,4 +1,4 @@
-private ["_faction", "_i", "_p", "_side", "_u"]; Bonour
+private ["_faction", "_i", "_p", "_side", "_u"];
 
 _side = _this;
 _faction = "West";
