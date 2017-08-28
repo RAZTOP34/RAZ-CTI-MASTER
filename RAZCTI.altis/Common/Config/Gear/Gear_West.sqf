@@ -1,4 +1,4 @@
-private ["_faction", "_i", "_p", "_side", "_u"];
+private ["_faction", "_i", "_p", "_side", "_u"]; Bonjour
 
 _side = _this;
 _faction = "West";
