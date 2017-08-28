@@ -1,4 +1,4 @@
-private ["_faction", "_i", "_p", "_side", "_u"];
+private ["_faction", "_i", "_p", "_side", "_u"]; Bonour
 
 _side = _this;
 _faction = "West";
@@ -575,7 +575,7 @@ _u = _u + [0];
 _p = _p	+ [5];
 
 
-//--- Bandolières
+//--- BandoliÃ¨res
 
 _i = _i	+ ["V_BandollierB_khk"];
 _u = _u + [0];
