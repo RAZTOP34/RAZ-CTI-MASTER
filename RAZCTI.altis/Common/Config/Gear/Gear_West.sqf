@@ -1260,7 +1260,73 @@ _p = _p	+ [10];
 
 //--- Items
 
-_i = _i + ["rhsusf_ANPVS_14"];
+   _i = _i + ["rhs_mag_nspd"];
+_u = _u + [0];
+_p = _p + [15];
+
+
+   _i = _i + ["rhs_mag_mk3a2"];
+_u = _u + [0];
+_p = _p + [15];
+
+
+   _i = _i + ["MiniGrenade"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_mk84"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_m7a3_cs"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_m18_red"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_m67"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["HandGrenade"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_fakels"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_fakel"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_f1"];
+_u = _u + [0];
+_p = _p + [15];
+ 
+  _i = _i + ["Chemlight_green"];
+_u = _u + [0];
+_p = _p + [15];
+ 
+ _i = _i + ["Chemlight_yellow"];
+_u = _u + [0];
+_p = _p + [15];
+
+_i = _i + ["Chemlight_red"];
+_u = _u + [0];
+_p = _p + [15];
+
+_i = _i + ["Chemlight_blue"];
+_u = _u + [0];
+_p = _p + [15];
+
+_i = _i + ["rhs_mag_an_m8hc"];
+_u = _u + [0];
+_p = _p + [15];
+
+_i = _i + ["rhs_mag_an_m14_th3"];
 _u = _u + [0];
 _p = _p + [15];
 
